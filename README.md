@@ -1,5 +1,7 @@
 Notice! this starter kit isn't fully finished, but I'm just making this public for now if anyone wants to add onto it. I'm getting burned out on working on this so I'm open to anyone wanting to help contribute to fixing up any bugs they find, etc.
 
+Deployment to VPS: https://www.youtube.com/watch?v=G5yNGd6sO-4
+
 # Code Walkthrough (Early Access)
 
 For those wanting more hands on video walkthrough content that explains this code base, shows how to deploy it, and how to maintain it in production, I'm working on a paid video walkthrough series found here [https://webdevcody.gumroad.com/l/wdc-saas-starter-kit-walkthrough](https://webdevcody.gumroad.com/l/wdc-saas-starter-kit-walkthrough). I'm in the process of recording and editing videos, but if you purchase now it's 50% off the original pricing.
